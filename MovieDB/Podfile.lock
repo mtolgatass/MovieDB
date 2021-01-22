@@ -1,0 +1,32 @@
+PODS:
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - SnapKit (5.0.1)
+  - TMDBSwift (0.5.1)
+
+DEPENDENCIES:
+  - PromiseKit (~> 6.8)
+  - SnapKit (~> 5.0.0)
+  - TMDBSwift
+
+SPEC REPOS:
+  trunk:
+    - PromiseKit
+    - SnapKit
+    - TMDBSwift
+
+SPEC CHECKSUMS:
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  TMDBSwift: 9220f3dcee23372c05b92f8c111f5f4c37185aee
+
+PODFILE CHECKSUM: b172173d0b908557cdf8f72875702c29325c6f27
+
+COCOAPODS: 1.9.3
